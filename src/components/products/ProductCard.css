@@ -1,0 +1,23 @@
+.ProductCard__photo {
+  border-radius: 100%;
+  width: 100px;
+  height: 100px;
+}
+
+.ProductCard__left {
+  border-right: 10px solid #8d93db;
+  padding-right: 60px;
+}
+
+.ProductCard__right {
+  padding-left: 80px;
+  flex: 1;
+}
+
+.ProductCart_margin {
+  margin-left: 80px ;
+}
+
+.Space{
+padding-left: 80px;
+}

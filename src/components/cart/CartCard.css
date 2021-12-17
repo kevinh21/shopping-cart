@@ -1,0 +1,29 @@
+.CartCard__photo {
+  border-radius: 90%;
+  margin-left: 10%;
+  width: 150px
+}
+
+.CartCard__left {
+  border-right: 10px solid #8d93db;
+  padding-right: 10%;
+}
+
+.CartCard__right {
+ padding-left: 7%;
+  flex: 1;
+}
+
+.CartList{
+ margin-left: 30%;
+ padding-top: 5%;
+ text-align: center;
+font-size: xx-large;
+}
+
+.CartCard_margin {
+  margin-left: 20%;
+  margin-bottom: 5px;
+}
+
+

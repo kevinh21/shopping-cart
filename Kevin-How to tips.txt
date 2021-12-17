@@ -1,0 +1,25 @@
+
+
+To get older apps to run:
+in the gib bash terminal:
+
+git init (in the app folder)
+cd .. (to the react folder for the package.json to get updated)
+npm install (from top level)
+export NODE_OPTIONS=--openssl-legacy-provider
+npm i styled-components
+cd your-app-folder (or whatever app folder name)
+npm install react-router-dom@5.3.0
+npm start
+
+
+To get older apps to run:
+in the gib bash terminal:
+
+git init (in the app folder)
+npm install 
+
+cd .. (to the react folder for the package.json to get updated)
+npm i styled-components
+cd react-contacts (or whatever app folder name)
+npm start
